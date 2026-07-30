@@ -1,0 +1,1 @@
+Sube logo.png a images/logo.png. Luego sube todo a GitHub y activa GitHub Pages.
